@@ -3,7 +3,7 @@ linguist-vendored
 *.fla  text
 
 # ActionScript file
-*.as   text
+*.as   ActionScript
 
 # Flash XML file
 *.xml  text
