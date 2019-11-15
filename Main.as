@@ -1,6 +1,6 @@
 /**
  * Example of QADCA class being implemented.
- * @author Isonyx
+ * @author Haquor
  * @version 1.0
  */
 class Main 
